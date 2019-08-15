@@ -58,6 +58,20 @@ h1 {
     background-color: antiquewhite;
 }
 
+.flex-item {
+    background-color: hotpink;
+    flex: 1;
+    margin: 1em;
+    text-align: center;
+}
+
+.section-item {
+    margin: 0auto;
+    width: 100%;
+
+}
+
+
 main {
     flex: 3;
     margin: 1em;
@@ -77,3 +91,5 @@ footer  {
  footer a {
     color: white;
  }  
+
+ 
